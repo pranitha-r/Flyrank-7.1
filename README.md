@@ -5,7 +5,7 @@
 [![GitHub Pages](https://img.shields.io/badge/Deployment-GitHub_Pages-blue?style=for-the-badge)](https://pranitha-r.github.io/Flyrank-7.1/)
 
 Live Portfolio URL: **[https://pranitha-r.github.io/Flyrank-7.1/](https://pranitha-r.github.io/Flyrank-7.1/)**  
-Project Repository: **[https://github.com/pranitha-r/Flyrank-7.1](https://github.com/pranitha-r/Flyrank-7.1)**  
+Project Repository: **https://pranitha-r.github.io/Flyrank-7.1/**  
 
 ---
 
