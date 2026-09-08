@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect width="1200" height="630" fill="url(#glow)" />
+
+  <!-- Subtle grid lines -->
+  <g stroke="#ffffff" stroke-opacity="0.05" stroke-width="1">
+    <line x1="100" y1="0" x2="100" y2="630" />
+    <line x1="300" y1="0" x2="300" y2="630" />
+    <line x1="500" y1="0" x2="500" y2="630" />
+    <line x1="700" y1="0" x2="700" y2="630" />
+    <line x1="900" y1="0" x2="900" y2="630" />
+    <line x1="1100" y1="0" x2="1100" y2="630" />
+    <line x1="0" y1="120" x2="1200" y2="120" />
+    <line x1="0" y1="240" x2="1200" y2="240" />
+    <line x1="0" y1="360" x2="1200" y2="360" />
+    <line x1="0" y1="480" x2="1200" y2="480" />
+  </g>
+
+  <!-- Badge -->
+  <rect x="90" y="80" width="340" height="42" rx="21" fill="#312e81" stroke="#4f46e5" stroke-width="1.5" />
+  <text x="110" y="107" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#c7d2fe" letter-spacing="1">TARGET: TECHNICAL AI PRODUCT MANAGER</text>
+
+  <!-- Name & Title -->
+  <text x="90" y="195" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="56" font-weight="900" fill="#ffffff">Pranitha R</text>
+  <text x="90" y="245" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="600" fill="url(#accent)">Agentic AI Systems • LLM Orchestration • Python</text>
+
+  <!-- Proof Claim -->
+  <text x="90" y="325" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="400" fill="#94a3b8" width="900">
+    <tspan x="90" dy="0">"I prove I can define, scope, and build production-ready agentic AI systems</tspan>
+    <tspan x="90" dy="38">using LLM orchestrators and Python."</tspan>
+  </text>
+
+  <!-- Key Metrics Cards -->
+  <g transform="translate(90, 420)">
+    <!-- Card 1 -->
+    <rect x="0" y="0" width="280" height="120" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5" />
+    <text x="24" y="55" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="800" fill="#38bdf8">94.2%</text>
+    <text x="24" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" fill="#94a3b8">Benchmark Accuracy</text>
+
+    <!-- Card 2 -->
+    <rect x="310" y="0" width="280" height="120" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5" />
+    <text x="334" y="55" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="800" fill="#38bdf8">63%</text>
+    <text x="334" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" fill="#94a3b8">Turnaround Time Cut</text>
+
+    <!-- Card 3 -->
+    <rect x="620" y="0" width="280" height="120" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5" />
+    <text x="644" y="55" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="800" fill="#38bdf8">$0.04</text>
+    <text x="644" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" fill="#94a3b8">Cost Per Report</text>
+  </g>
+
+  <!-- Footer link / URL -->
+  <text x="1110" y="580" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" fill="#64748b">pranitha-r.github.io/Flyrank-7.1</text>
+</svg>
